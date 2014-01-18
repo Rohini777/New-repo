@@ -26,3 +26,10 @@ background-color:"3289b6";
 
 
 
+
+.well
+{
+	background:gray;
+	width: 100%;
+	height: 80px;
+}
