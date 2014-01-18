@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MY HTML</title>
+</head>
+<body>
+	<div class="well">
+	</div>
+</body>
+=======
+<html>
+	<head>
+		<title>Shelly</title>
+	</head>
+	<body>
+		<div class="container">
+		<div class="button">BUTTON</div>
+		<div class="circle">CIRCLE</div>
+		<div class="square">Square</div>
+		<div class="Background">BG</div>
+		</div>
+	</body>
+
+>>>>>>> 696ae90bcf8e9514193f1a7fc1433bf49f235431
+</html>
