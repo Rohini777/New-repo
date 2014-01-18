@@ -1,0 +1,17 @@
+<?php
+echo "coding";
+echo "hey dear";
+echo "By Divya";
+echo "Added again";
+
+
+echo "added by rohini";
+
+echo "again and again-Divya";
+<<<<<<< HEAD
+=======
+>>>>>>> 4d86e5bf40117371720fe88f269e98a72123e489
+>>>>>>> a4e45c4bb889755c22eae4deec005fffb7f2e9f7
+echo "shelly added";
+>>>>>>> b01242e5a59766be136a76ba96367a743b0b007d
+?>
